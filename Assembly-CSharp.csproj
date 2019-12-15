@@ -51,12 +51,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\GameLogic.cs" />
      <Compile Include="Assets\Scripts\HighscoreCounter.cs" />
      <Compile Include="Assets\Scripts\Hit.cs" />
      <Compile Include="Assets\Scripts\Manager.cs" />
      <Compile Include="Assets\Scripts\ScoreCounter.cs" />
-     <Compile Include="Assets\Scripts\scoreManager.cs" />
  <Reference Include="UnityEngine.CoreModule">
  <HintPath>G:/UNITY/2017.4.35f1/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
  </Reference>
